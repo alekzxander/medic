@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Planing from './planing'
 import './App.css';
 import Contact from './contact'
+import Notif from './notif'
 class App extends Component {
   render() {
     return (
@@ -29,7 +30,7 @@ class App extends Component {
          </div>
          <div className="row">
            <div className="col-md-8">
-
+              <Notif />
            </div>
            <div className="col-md-4"></div>
          </div>

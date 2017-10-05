@@ -32,6 +32,7 @@ export default class Contact extends Component {
                         </div>
                                                
                     </div>
+                   
                     <div className="row">
                         <br/>
                         <div className="col-md-4">
@@ -79,6 +80,17 @@ export default class Contact extends Component {
                         </div>
                         <div className="col-md-8">
                             <h3>Mr.Leblanc</h3>
+                            <br/>
+                        </div>
+                                               
+                    </div>
+                    <div className="row">
+                        <br/>
+                        <div className="col-md-4">
+                            <img src={user} alt=""/>
+                        </div>
+                        <div className="col-md-8">
+                            <h3>Mr.LeDoux</h3>
                             <br/>
                         </div>
                                                
