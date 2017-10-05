@@ -153,3 +153,13 @@ background-size: cover;
   height: 190px;
   background: white;
 }
+.mesDemandes p 
+{
+  color: #636262;
+  text-align: left;
+  margin-top: 80px;
+}
+.mesDemandes img
+{
+  margin-top: 60px;
+}
