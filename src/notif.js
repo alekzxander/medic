@@ -19,7 +19,8 @@ export default class Notif extends Component {
                                         <option value="france">Grippe</option>
                                         <option value="espagne">Chikungunya</option>
                                         <option value="italie">Gastro</option>
-                                        <option value="royaume-uni">Prevention main</option>
+                                        <option value="royaume-uni">Angine</option>
+                                        
 
                                     </select>
                                 </p>

@@ -42,18 +42,26 @@ body
   background:#9FC916;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
-  height: 60px;
+  height: 70px;
   padding-top:1px;
+}
+.bordure h1 
+{
+  padding-top: -5px;
 }
 .calendar 
 {
-  height: 240px;
+ 
   background: white;
+}
+.calendar .col-md-3
+{
+  border-right: 1px solid black;
 }
 .user 
 {
    background: white;
-   height: 620px;
+   height: 580px;
    overflow-y:auto;
 }
 .class
@@ -101,4 +109,47 @@ background-size: cover;
 .row 
 {
  margin-left: -7px;
+}
+.dos 
+{
+  height: 80px;
+  background:#943A3A;
+}
+.uno
+{
+  height: 50px;
+  border: none;
+}
+.tre
+{
+  height: 23px;
+  background: #2dc64c;
+  border:none;
+}
+.for
+{
+  height: 60px;
+  border: none;
+}
+.six
+{
+  height: 65px;
+  background: #efdc09;
+  border: none;
+}
+.sev
+{
+  height: 65px;
+  background: #efdc09;
+  border: none;
+}
+.cin
+{
+  background: #5e95ed;
+  border: none;
+}
+.mesDemandes
+{
+  height: 190px;
+  background: white;
 }

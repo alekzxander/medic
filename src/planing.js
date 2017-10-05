@@ -13,15 +13,31 @@ export default class Planing extends Component {
                      <div className="row">
                         <div className="col-md-3">
                             <h3>8h00</h3>
+                            <p><button className='btn btn-warning uno'>Mr.Delatre</button></p>
+                            
+                            <p><button className='btn btn-warning dos'>Mr.Ledoux</button></p>
                         </div>
                         <div className="col-md-3">
                             <h3>9h00</h3>
+                           <p> <button className='btn btn-warning tre'>Mr.Moulin</button></p>
+                          
+                           <p> <button className='btn btn-warning for'>Mr.Pignon</button></p>
+                           <p> <button className='btn btn-warning cin'>Mr.Bronch</button></p>
                         </div>
                         <div className="col-md-3">
                             <h3>10h00</h3>
+                           <p> <button className='btn btn-warning six'>Mr.Leblanc</button></p>
+                           <p> <button className='btn btn-warning sev'>Mr.Wharro</button></p>
+                            
                         </div>
                         <div className="col-md-3">
                            <h3> 11h00</h3>
+                           <p> <button className='btn btn-warning tre'>M.Grimal</button></p>
+                           <p> <button className='btn btn-warning tre'>Mr.Lefut</button></p>
+                           <p> <button className='btn btn-warning tre'>M.Brodur</button></p>
+                           <p> <button className='btn btn-warning tre'>Mr.McFly</button></p>
+                     
+                           
                         </div>
                      </div>
                  </div>
